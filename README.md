@@ -76,7 +76,8 @@ Neural Network (TensorFlow + Keras)
 ## Enjeux & résultats
 Fort déséquilibre entre classes
 
-![225cf117-10b1-4089-9186-15e02236be60](https://github.com/user-attachments/assets/1d19b09a-f32a-4bc0-ad2e-961653fcaa0e)
+![image_1](https://github.com/user-attachments/assets/ce2b50c6-76f9-4663-bb21-57b0dec52446)
+
 
 Impact sur la Logistic Regression → faible recall sur les classes minoritaires.
 
