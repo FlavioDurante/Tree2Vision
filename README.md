@@ -80,7 +80,7 @@ Fort déséquilibre entre classes
 
 Impact sur la Logistic Regression → faible recall sur les classes minoritaires.
 
-Meilleure performance obtenue avec Neural Network : précision globale de 90 %, F1-score moyen de 85%.
+Meilleure performance obtenue avec Neural Network : précision globale de 81 %, F1-score moyen de 90%.
 
 ## Licence
 Ce projet est sous licence MIT.
